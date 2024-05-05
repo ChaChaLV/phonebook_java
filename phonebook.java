@@ -1,4 +1,4 @@
-package phonebook;
+package phonebook_java;
 
 import java.util.ArrayList;
 import java.util.HashMap;
